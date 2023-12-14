@@ -22,7 +22,7 @@ function times()
     document.querySelector("#svar").value = svar;
 }
 
-function devide()
+function divide()
 {
     let t1=parseInt(tal1.value);
     let t2=parseInt(tal2.value);
